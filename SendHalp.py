@@ -2,7 +2,7 @@ import requests
 import json
 import random
 
-token = "722519073:AAGz5JXntidyedz1xhxBCaL4k9XxogGx_Tg"
+token = "1682805824:AAG2MVbi8xopExjM-Bre2kr0OyL8dclYbfk"
 url = "https://api.telegram.org/bot" + token + "/"
 MAX_QNS = 5
 
